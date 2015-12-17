@@ -113,6 +113,15 @@ header.topol h2{
 	margin-top: 6em;
 }
 
+iframe.promov{
+	width: 768px;
+	height: 432px;
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+
+
 
 	.container {
 		margin-left: auto;
@@ -3518,3 +3527,10 @@ header.topol h2{
 				margin-right: 0 auto;
 				max-width: 0%;
 			}
+			iframe.promov{
+					width : 320px;
+					height : 180px;
+					margin-top: 3em;
+					margin-bottom: 3em;
+				}
+
