@@ -102,10 +102,9 @@
 }
 
 .altera{
-
-	text-align: right;
-	margin-top: 12em;
+	color: #fff;
 }
+
 header.topol{
 	text-align: left;
 }
@@ -117,9 +116,12 @@ iframe.promov{
 	width: 768px;
 	height: 432px;
 	margin-top: 3em;
-	margin-bottom: 3em;
+	margin-bottom: 1em;
 }
-
+iframe.proto{
+	margin-top: 5.5em;
+	margin-bottom: 1em;
+}
 
 
 
@@ -3066,7 +3068,7 @@ iframe.promov{
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: radial-gradient(#3c4242,#231f20 75%);
+		background: #231f20;
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
@@ -3176,6 +3178,12 @@ iframe.promov{
 					margin-left: 0;
 					padding: 0;
 				}
+
+	#footer .finish{
+		text-align: left;
+		font-size: 14px;
+	color: rgba(255,255,255, 0.50);
+}
 
 /* XLarge */
 
